@@ -1,3 +1,7 @@
+#screen
+![Screenshot_3](https://github.com/Amaholy/statham-quotes-react/assets/128307926/818cd486-f57c-4d72-9810-bee70407eb90)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
